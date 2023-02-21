@@ -1,0 +1,5 @@
+Home
+Reservations
+Employees
+Reviews
+Account
